@@ -1,4 +1,9 @@
-# portfolio-bootstrap
-This is a small personal webpage. It originally started as a basic HTML and CSS site, but I've now added Bootstrap.
+# Portfolio
+This is a small personal webpage.
 
-The formatting isn't perfect, and the styles aren't the same as the original site, but it's still a functioning website!
+## Features
+- Three HTML pages: home, resume, and portfolio
+- Brief bio and picture in index.HTML
+- Picture of resume in resume.HTML
+- GitHub and deployed links to projects in portfolio.HTML
+- Footer has email address & LinkedIn and GitHub logos that link to my pages
